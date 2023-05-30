@@ -18,6 +18,10 @@ section {
   align-items: center;
 }
 
+.greeting {
+  text-align: center;
+}
+
 .container {
   display: flex;
   flex-direction: column;
